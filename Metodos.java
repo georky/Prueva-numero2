@@ -8,7 +8,7 @@ int num2;
         this.num2 = num2;
     }
 
-    
+
     public void suma ()
     {
         int total = num1+num2;
