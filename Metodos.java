@@ -14,4 +14,9 @@ int num2;
         int total = num1+num2;
         System.out.println("la suma es"+total);
     }
+    public void resta()
+    {
+        int total = num1-num2;
+        System.out.println("la Resta es"+total);
+    }
 }
