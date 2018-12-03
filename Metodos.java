@@ -24,5 +24,5 @@ int num2;
         int total = num1*num2;
         System.out.println("la Multiplicacion "+total);
     }
-     
+
 }
